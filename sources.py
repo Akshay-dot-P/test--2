@@ -206,7 +206,6 @@ GREENHOUSE_COMPANIES = [
     "beyond-identity",    # passwordless IAM
  
     # ── Cloud / Infra (original + new) ──
-    "cloudflare",         # CDN / zero trust
     "fastly",             # edge cloud
     "algolia",            # search
     "hashicorp",          # infra security / secrets
